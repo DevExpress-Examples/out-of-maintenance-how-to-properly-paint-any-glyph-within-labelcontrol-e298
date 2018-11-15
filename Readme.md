@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/labelControl/Form1.cs)
+* [MyLabelControl.cs](./CS/labelControl/MyLabelControl.cs)
+* [Program.cs](./CS/labelControl/Program.cs)
+<!-- default file list end -->
 # How to properly paint any glyph within LabelControl
 
 
